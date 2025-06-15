@@ -16,9 +16,6 @@ A simple web-based application built using **HTML**, **CSS**, and **JavaScript**
 - **CSS** – Styling for layout and appearance
 - **JavaScript** – Logic to handle counting and saving batches
 
-## 📸 Screenshots
-
-*(Add screenshots here if you have any)*
 
 ## 🚀 Getting Started
 
