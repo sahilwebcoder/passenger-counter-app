@@ -24,4 +24,4 @@ A simple web-based application built using **HTML**, **CSS**, and **JavaScript**
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/passenger-app.git
+   git clone https://github.com/sahilwebcoder/passenger-counter-app.git
