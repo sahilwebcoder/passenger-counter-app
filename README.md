@@ -25,3 +25,7 @@ A simple web-based application built using **HTML**, **CSS**, and **JavaScript**
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/sahilwebcoder/passenger-counter-app.git
+
+1. **See web app on Netlify**:
+
+    https://magnificent-sunshine-185051.netlify.app/
